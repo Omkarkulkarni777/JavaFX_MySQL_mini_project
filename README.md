@@ -13,7 +13,6 @@ A JavaFX-based bus ticket booking system where users can search for available bu
 
 
 
-Demo  : https://youtu.be/-iPe0J2WCXY
 
 
 
