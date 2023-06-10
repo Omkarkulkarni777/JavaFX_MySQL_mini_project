@@ -39,12 +39,5 @@ For more details and other IDE options, please refer to [this site](https://open
 
 
 
-
-## UI Screenshots
-![image](https://user-images.githubusercontent.com/87283264/152427678-de289d9b-3386-4237-a3cd-239a1f8faab4.png)
-
-
-![image](https://user-images.githubusercontent.com/87283264/152426822-e81affd3-584e-447b-91e5-2206872a30c5.png)
-
 ## License
 The MIT License (MIT)
